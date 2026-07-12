@@ -6,7 +6,7 @@ web browser (now or decades from now) and it renders offline. HTML is chosen del
 as the most backward-compatible renderable format available.
 
 ## Integrity
-- **SHA-256 of `index.html`:** `61c85770959b3a05fc241974f08dd526b9891650d941b1db1159f7f2d75f381a`
+- **SHA-256 of `index.html`:** `92b45f813b517d4421cc94bfa4a854eb448b5f3de2f02c59b288d70e9f8ae796`
 - To verify the file is intact and untampered:
   - PowerShell: `Get-FileHash index.html -Algorithm SHA256`
   - Bash: `sha256sum index.html`
